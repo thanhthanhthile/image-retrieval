@@ -1,4 +1,0 @@
-Packaging for an all meat frozen pizza dinner.
-I see a box of pizza that is for sell
-A box of baked pizza has nutrition information on it.
-A pizza that is frozen is on the table.

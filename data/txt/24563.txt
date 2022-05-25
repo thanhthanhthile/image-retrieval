@@ -1,5 +1,0 @@
-A Windows screen showing an error message and progress bar
-A windows dialog that reads your computer is unable to start, startup repair is checking your system for problems.
-A computer screen showing a startup repair screen telling the user the computer was unable to start.
-Quality issues are too severe to recognize visual content.
-A page on a computer screen with information.

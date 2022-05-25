@@ -1,5 +1,0 @@
-A computer screen that is at the Windows Boot Manager screen
-An error message about rebooting is being shown on the computer screen.
-A computer screen showing an option diagnostics menu.
-a computer screen with a boot message from windows
-the boot manager screen on a laptop showing options to start the operating system

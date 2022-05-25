@@ -1,5 +1,0 @@
-White text on a black screen describing that one of the computer's disks needs to be checked.
-A picture of a computer monitor where the program from C prompt failed to load.
-Computer screen readout of disk checking on C, 49% complete.
-Here is a black screen with white type on it that says checking file system on c: The type of the file system includes: one of your disks needs to be, may cancel the disk check, but, that you will continue, windows will now check the disk, chkdsk is verifying files, 538880 file records processed, file verification completed, 885 large file records processed, 0 bad files records processed, 0 ea records processed, 105 repairs records processed, chkdsk is verifying indexes, 49 percent complete.
-A closeup of the text output from the program CHKDSK.

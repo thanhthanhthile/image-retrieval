@@ -1,5 +1,0 @@
-Computer screen on the existing page that is asking if you are sure you want to exit
-a computer screen with a question in the center and the word exiting at the top
-A laptop screen that says 'Exiting, are you sure?' and gives two options, yes and no
-Quality issues are too severe to recognize visual content.
-A computer screen that says Exiting at the top, asking Are You Sure with an option to click Yes or No.

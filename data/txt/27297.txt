@@ -1,5 +1,0 @@
-The dashboard of an exercise machine including information on distance and calorie burn.
-The control panel of an exercise machine, which shows a distance of 5 and 233 calories burned
-Readout from exercise device that shows how much work you've done.
-An exercise machine is shown against a dark background with calorie count numbers displayed
-the menu for an exercising machine (most likely a treadmill) with options to see the distance, speed, and calories burned while exercising

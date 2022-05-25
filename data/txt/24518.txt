@@ -1,5 +1,0 @@
-A computer screen with a Startup Repair prompt as the computer was unable to start
-A computer screen monitor with a pop-up window on it
-Computer monitor that shows data about restarting the computer.
-A startup repair error message stating the computer was unable to start and asking if you want to restore it.
-A message alert box on a computer screen with the label "Startup Repair" and containing a "Repair" button on it.

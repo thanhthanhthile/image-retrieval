@@ -1,5 +1,0 @@
-Quality issues are too severe to recognize visual content.
-a windows prompt screen asking for confirmation to begin a system restore
-Pictured is the right side of a computer screen in restore mode.
-A computer is undergoing a system restore as shown in it's monitor.
-A windows message asking the user if they would like to perform a system restore.

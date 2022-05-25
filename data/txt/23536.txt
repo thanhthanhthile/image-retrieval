@@ -1,5 +1,0 @@
-A computer screen asking to select the driver to be installed, however there is an error screen saying no device drivers were found.
-A windows computer message that says "no device drivers were found"
-A windows PC error message that says no device drivers found.
-a screenshot of a computer monitor showing an error for no device drivers being found
-A laptop screen showing a 'no device drivers' alert.

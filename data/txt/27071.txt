@@ -1,4 +1,0 @@
-T-Mobile phone captcha for yahoo email login page
-A yahoo login screen shot showing a captcha and a keyboard.
-A screenshot of a yahoo captcha page wanting to be filled out.
-A phone screen with yahoo written in purple

@@ -1,5 +1,0 @@
-A computer screen has a magnifier reader open on it and a text box.
-Computer screen showing ZoomText  trying to be used but there is an error message saying the standard VGA driver is not supported
-A computer monitor has a popup window on the screen.
-A computer screen with a message that tells the person they need an update.
-a computer screen with a message prompting you to click ok

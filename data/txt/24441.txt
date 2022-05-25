@@ -1,5 +1,0 @@
-A computer monitor displaying search results and a Swag bucks captcha.
-A monitor has a captcha that needs to be solved.
-a website reading: congratulations you've won eight swag bucks we just want to make sure you are not a robot, DBK enter word:
-Computer web page starting at the top you won swagbucks below that is results for some kind of web search.
-A computer screen with a web page congratulating someone.

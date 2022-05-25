@@ -1,5 +1,0 @@
-A web page asking for a yahoo id and a captcha needed to log in.
-An image of a computer screen with large black words and a white background.
-Captcha code and entry box  for a Yahoo sign in containing the first part of the captcha code but missing the back end
-A screenshot of a Yahoo! login page showing a CAPTCHA
-some sort of captcha that is on a white screen

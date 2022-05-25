@@ -1,5 +1,0 @@
-A screen with numbers and a barcode
-A power meter that is currently at 18431 kWh.
-A square device, possibly an electric meter has a white face and black frame
-A meter is working next to a brown wall.
-Small black and white dial screen, reads : kWh 18431, 1 phase 2 wire.

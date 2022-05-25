@@ -1,5 +1,0 @@
-partial part of a bottle of Lysol All Purpose cleaner
-A partial view of a plastic bottle of a familiar brand of cleaner.
-a bottle of Lysol all purpose cleaner with a yellow label
-An image of a lysol container where most of the container is out of frame
-A plastic spray bottle of all purpose Lysol disinfectant

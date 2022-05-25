@@ -1,5 +1,0 @@
-A close up of a computer screen with a page that says Forget your password on it and a place to put your phone number and enter the captcha on it.
-A computer screen with the forgot your password message requiring a phone number.
-A computer screen is showing a validation page.
-I can see a computer screen at a login menu and a captcha challenge.
-A computer screen is asking for the user id and password.

@@ -1,3 +1,0 @@
-A digital display that can contain four numbers of something flowing at a number of milliliters per hour.
-A close up of a food or IV pump with the display off.
-A blue box attached to a metal pole, a screen with digital numbers on the front of the box.

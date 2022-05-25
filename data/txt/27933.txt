@@ -1,3 +1,0 @@
-a electronic thermometer with displayed temperature installed on a wall.
-A wall mounted white thermostat heat controller with an LED screen.
-The upper left corner of this thermostat shows the current temperature.

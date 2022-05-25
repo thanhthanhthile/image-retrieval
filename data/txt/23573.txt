@@ -1,5 +1,0 @@
-A blue computer screen telling that disks need to be checked.
-Blue computer screen with disc check stage 3 of 3 completed.
-A portion of a monitor is shown with text indicating the computer is doing a chkdsk on the computer.
-A computer screen showing it checking the hard drive for errors.
-some type of monitor that is on and has errors

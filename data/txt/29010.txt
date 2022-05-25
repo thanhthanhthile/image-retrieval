@@ -1,5 +1,0 @@
-The back of a food box that shows two eggs and cooking instructions on it
-Box for a food product that shows instructions on how to cook it.
-A box has instructions on it and ingredients.
-A cookbook has instructions on how to make muffins
-Instructions for a muffin recipe on a mix box.

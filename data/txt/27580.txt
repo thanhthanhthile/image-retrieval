@@ -1,5 +1,0 @@
-a small electronic device called refreshabraille 18
-This object is a black braille reading machine
-An keyboard player with buttons of brain labeled Refreshabraille 18.
-Some sort of electronic braille machine in a black case.
-A machine used to help visually-impaired people sits on a fancy counter-top.

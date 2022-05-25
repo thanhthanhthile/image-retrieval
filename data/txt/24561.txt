@@ -1,5 +1,0 @@
-An open windows dialogue that states is  starting up repair
-A computer screen with an error message on it.
-Computer monitor displaying a message asking the user if they want to restore their computer with System Restore.
-Computer monitor displaying a Windows error "unable to start"
-A computer screen showing a restore window pop up notification.

@@ -1,5 +1,0 @@
-A meter that measures the use of output of electricity.
-An electricity meter that reads at 2616,272 m3.
-A white meter with a bunch of number on it.
-The back of a object has a tag and serial number
-A meter for a propane gas tank with a reading showing how full the tank is.

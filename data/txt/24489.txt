@@ -1,5 +1,0 @@
-A section of a food menu displaying the type of, and price of, various appetizers.
-Shown is a picture of a partial Appetizers & More portion of a restaurant menu.
-Part of a menu lists appetizer items with their prices.
-A restaurant menu showing the selection and prices of the appetizers.
-A list of appetizers from a menu with a red box on the side with more items.

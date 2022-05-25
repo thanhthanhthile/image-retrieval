@@ -1,5 +1,0 @@
-A page of reviews for an CS Lewis book from the Sunday times.
-A book contains white paper with black text
-Page of a book with quotes from the Sunday times
-A few passages from a page inside a book.
-Quotes that talk about CS Lewis and an autobiography.

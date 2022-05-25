@@ -1,4 +1,0 @@
-A frozen box of meat has a barcode on it.
-A package of fresh food from the store has a label on it.
-Quality issues are too severe to recognize visual content.
-A package with a barcode on it from an unknown item.

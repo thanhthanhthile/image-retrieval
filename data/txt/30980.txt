@@ -1,5 +1,0 @@
-A computer screen displaying an unable to start error.
-a system message on a computer stating that something is "unable to start"
-A computer screen displaying the message unable to start.
-A partial view of a laptop with a window open that states words about being unable to start.
-An error message displayed on a computer screen.

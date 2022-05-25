@@ -1,5 +1,0 @@
-A white machine has a barcode on it and numbers.
-A item with a label that contains a barcode and item numbers.
-Quality issues are too severe to recognize visual content.
-A label and dial on an electricity meter displays the current usage.
-A white label with a barcode and model information on it.
