@@ -1,0 +1,5 @@
+A computer screen contains a popup message to be cancelled
+Computer screen with an open window and a warning window
+A computer screen showing a pop up regarding repairs to the computer.
+A startup repair dialogue box showing that the current repair operation can't be cancelled.
+A screenshot of a computer monitor with some dialog boxes

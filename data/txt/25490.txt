@@ -1,0 +1,4 @@
+The electronic display portion of a large digital clock program is seen.
+Shows a clock with time and date and temperature.
+a close up of a digital clock showing the time 2100 hours
+A digital display of date, time and day.

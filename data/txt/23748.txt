@@ -1,0 +1,5 @@
+A computer screen that performed a search of MMMM.
+A computer screen indicates that a search returns no results.
+A computer screen showing no items match the search.
+Pictured is a desktop computer screen in the search results page of Explorer.
+A computer screen showing no search results on it.

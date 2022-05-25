@@ -1,0 +1,3 @@
+A scientific calculator with large buttons for the vision impaired
+A blue calculator with a large digital screen.
+a large blue expanded calculator with an led display

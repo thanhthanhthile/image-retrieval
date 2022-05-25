@@ -1,0 +1,4 @@
+A thermostat that is on the wall with two buttons and the temperature that is in the room.
+A wall thermostat displays the temperature on the wall unit.
+a home thermostat led display reading 67 degrees
+a thermostat at 67 degrees on a wall

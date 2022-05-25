@@ -1,0 +1,5 @@
+A screenshot of someone trying to login to paypal.
+Showing captcha for a PayPal screen on a mobile device.
+Paypal screen showing captcha where the text z8C6 needs to be entered in the box in the middle.
+An AT&T cell phone with a display of the Paypal website asking a security challenge to type the characters in the image or listen to a recording of the characters.
+screenshot of paypal verification form requiring the code z8c6

@@ -1,0 +1,3 @@
+Windows shows a loading screen on the monitor.
+A laptops screen is shown with a progress bar
+A laptop on the startup screen as it is turning on.

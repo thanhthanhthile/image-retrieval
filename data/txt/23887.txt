@@ -1,0 +1,5 @@
+The customer receipt is showing the total spent.
+A receipt has a total amount on it and a room to write a tip.
+Quality issues are too severe to recognize visual content.
+A picture of a receipt on a wooden table.
+A white receipt which is too blurry to read with several entries.

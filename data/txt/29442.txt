@@ -1,0 +1,5 @@
+An intergaz display unit, with rolling numbers that display the number of m3
+A gray colored meter with a bunch of numbers and letters on it.
+Some kind of meter, maybe electric with all kinds of information written on it as well as the rate of usage attached to a wall.
+A reading meter for Intergaz reading 0.39 m3 inside the red box
+BK-G4, Nr fabr,: Integral 00011420, system from Schroder, 2577039, m3.

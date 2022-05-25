@@ -1,0 +1,5 @@
+Showing a computer screen starting a system repair.
+Computer screen showing a message from Startup repair that Windows cannot repair this computer automatically.
+Computer monitor with a startup repair window displaying message "windows cannot repair the computer automatically".
+An error message saying Windows cannot repair this computer automatically.
+A Windows window open telling the user that Windows cannot repair this computer automatically.

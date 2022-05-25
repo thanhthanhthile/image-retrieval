@@ -1,0 +1,5 @@
+A computer screen showing a fault in nonpaged area message.
+A part of a blue computer screen with crash information.
+A computer screen is displaying a window with a message
+A computer screen is displaying the blue screen of death error.
+Computer screen containing an error message called PAGE_FAULT_IN_NONPAGED_AREA

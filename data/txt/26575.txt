@@ -1,0 +1,4 @@
+Computer monitor that has windows for the login data.
+A computer monitor screen with a message box in the center of the screen and green lights of some of the monitor's functions lit up beneath the screen.
+A computer screen with multiple grey tabs open.
+a computer screen with a gray window open

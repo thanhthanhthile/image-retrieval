@@ -1,0 +1,5 @@
+A black computer monitor that refers to power supply issues.
+A computer screen with white text that show an error message
+Warning on a computer screen about a power adapter and what to do to fix the error.
+A screen explaining that the user's power adapter does not supply enough power to run the computer and instructing them to press F1 to shut it down.
+Dell monitor displaying an error message regarding an inadequate power supply.

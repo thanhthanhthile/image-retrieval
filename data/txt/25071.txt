@@ -1,0 +1,5 @@
+A windows Microsoft screen with a prompt to restore the computer.
+An error saying your computer was unable to start and a window asking if you want to restore your computer
+Computer monitor displaying repair pop-up messages asking the user to restore the computer.
+A computer screen is displaying a window with a message
+A computer screen shows a warning about the computer.

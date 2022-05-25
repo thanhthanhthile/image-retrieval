@@ -1,0 +1,5 @@
+A windows based computer monitor with a blue desktop screen.
+A computer screen is turned on and there is a dialogue box.
+A computer screen with an error message regarding an invalid product key can be seen in the image.
+A computer screen showing a notification of an invalid product key image.
+Error message from Windows saying that the product key that was input was invalid.

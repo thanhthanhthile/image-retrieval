@@ -1,0 +1,5 @@
+A computer message on how to restore files on a computer.
+A computer screen contains a message about using the system restore function.
+a screenshot of a computer monitor showing a prompt to being system restore
+A computer window asking the user whether or not he or she wants to perform a System Restore.
+A computer screen is displaying a message to "Restore  or Cancel".
