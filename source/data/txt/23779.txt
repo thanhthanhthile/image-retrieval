@@ -1,0 +1,4 @@
+part of a computer display showing icons on a Windows desktop
+Blue color screen  looks like a tablet  monitor is with black background.
+A computer screen is displaying a window with a message
+A laptop is powered up but it has not had a windows screen opened yet.

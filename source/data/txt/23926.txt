@@ -1,0 +1,4 @@
+a black color bar code with a white background
+A package's bar code and number are shown.
+The black and white barcode label on a product.
+Two barcodes printed in black ink on a white background.

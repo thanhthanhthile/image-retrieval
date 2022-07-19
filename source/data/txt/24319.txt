@@ -1,0 +1,4 @@
+A book with images of a swimming pool.
+a German book with images of an Olympic swimming pool
+Quality issues are too severe to recognize visual content.
+A book with color images open to a particular page.

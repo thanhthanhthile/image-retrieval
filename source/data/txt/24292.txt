@@ -1,0 +1,5 @@
+A computer screen asking for an address in the blank spaces.
+A computer screen showing address and captcha to be typed in.
+A computer screen is open to a personal information page to key in your information.
+Laptop screen showing a email submit form and a captcha code.
+A ReCAPTCHA box is displayed on a computer screen.

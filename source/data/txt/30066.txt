@@ -1,0 +1,3 @@
+A kitchen wind up timer that is pointing to 33 minutes left,
+A white and green kitchen timer with green numbers.
+A cooking timer that features a manually adjustable knob.

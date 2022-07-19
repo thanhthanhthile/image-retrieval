@@ -1,0 +1,3 @@
+Control panel of exercise equipment, with stop button on the top middle and quick start button below it.
+A control panel to a workout machine with a start and stop button.
+The button interface of a silver and grey piece of exercise equipment.

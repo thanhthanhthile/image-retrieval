@@ -1,0 +1,5 @@
+part of the front of a treadmill machine with a towel on the handle
+Treadmill control panel with four digital screens, the top left reading 3,93 and the bottom right reading 6,33
+Display screens and buttons on a piece of exercise equipment.
+A black and gray treadmill interface system is displaying speed, incline, time, distance, and calories burned.
+Quality issues are too severe to recognize visual content.

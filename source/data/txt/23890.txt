@@ -1,0 +1,4 @@
+An old windows based computer monitor displaying Windows Boot Manager.
+A computer monitor displaying a Windows Boot Manager screen.
+An error screen shown while booting the computer up.
+A computer screen with some instructions on it.

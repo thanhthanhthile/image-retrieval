@@ -1,0 +1,5 @@
+Multiple sections with words in it that's separated by different colored columns
+A book is open to a page with bolded words and colors.
+A page of text that has information about some type of card.
+Quality issues are too severe to recognize visual content.
+A sheet of paper with purple text boxes, and white and black lettering.

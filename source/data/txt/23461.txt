@@ -1,0 +1,5 @@
+A view of a take out restaurant menu
+A food menu with images of drink and food.
+The middle part of a menu, where the black, bordered cover is located.
+An opened restaurant menu listing all the food options
+A portion of a menu is shown with items such as hamburger, tejano plate, shrimp plate, steak and eggs, etc.

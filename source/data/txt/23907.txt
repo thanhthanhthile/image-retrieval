@@ -1,0 +1,5 @@
+A laptop displays a Windows Startup Repair window with a dialogue choice.
+On a Windows running device, a prompt has appeared during a startup repair.
+A monitor screen shows a window with information about  the computer's activity.
+An error message about restarting is displayed on the screen.
+A desktop computer is displaying information on it's monitor.
