@@ -146,25 +146,25 @@ def show_img_retrieved(related_docs_indices, id_corpus):
 
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    id_corpus, corpus = prepocessing_text(CAPTION_DIR)
+#     id_corpus, corpus = prepocessing_text(CAPTION_DIR)
 
-    filename = 'corpus'
-    outfile = open(filename, 'wb')
-    pickle.dump(prepocessing_text(CAPTION_DIR), outfile)
-    outfile.close()
+#     filename = 'source/corpus'
+#     outfile = open(filename, 'wb')
+#     pickle.dump(prepocessing_text(CAPTION_DIR), outfile)
+#     outfile.close()
 
-    vector_doc = vectorizer.fit_transform(corpus)
+#     vector_doc = vectorizer.fit_transform(corpus)
 
-    query = input('Your query: ')
-    number_of_img = int(input('Number of images retrieved: '))
-    start = time.time()
-    vector_query = preprocessing_query(query)
-    # Calculate cosine similarities
-    similar = cosine_similarity(vector_doc, vector_query).flatten()
-    related_docs_indices = similar.argsort()[:-(number_of_img+1):-1]
-    stop = time.time()
-    running_time = stop - start
-    print('{} images retrieved in {}s'.format(number_of_img, running_time))
-    show_img_retrieved(related_docs_indices, id_corpus)
+#     query = input('Your query: ')
+#     number_of_img = int(input('Number of images retrieved: '))
+#     start = time.time()
+#     vector_query = preprocessing_query(query)
+#     # Calculate cosine similarities
+#     similar = cosine_similarity(vector_doc, vector_query).flatten()
+#     related_docs_indices = similar.argsort()[:-(number_of_img+1):-1]
+#     stop = time.time()
+#     running_time = stop - start
+#     print('{} images retrieved in {}s'.format(number_of_img, running_time))
+#     show_img_retrieved(related_docs_indices, id_corpus)

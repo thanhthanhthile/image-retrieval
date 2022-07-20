@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Retrieval</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">
+</head>
+<body>
+<div class="title-01">
+    <h1>IMAGE RETRIEVAL</h1>
+    <p>@ Developed by thanhthanhthile</p>
+</div>
+    <div class="wrap">
+        <div class="search">
+           <input type="text" class="searchTerm" placeholder="What are you looking for?">
+           <button type="submit" class="searchButton" onclick="IR_textbased()">
+             <i class="fa fa-search"></i>
+          </button>
+        </div>
+     </div>
+
+     <div class="result">
+        <!-- <div class="text-result">
+            text_rs
+        </div> -->
+        <div class="img-result">
+            {% for image in img_path %}
+            <a href="{{ image }}" target="_blank">
+                <img src="{{ image }}" width="112" height="150">
+            </a>
+            {% endfor %}
+        </div>
+     </div>
+
+</body>
+
+
+
+
+
+
+
+</html>
