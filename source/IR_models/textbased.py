@@ -144,8 +144,6 @@ def show_img_retrieved(related_docs_indices, id_corpus):
     plt.show()
 
 
-
-
 # if __name__ == "__main__":
 
 #     id_corpus, corpus = prepocessing_text(CAPTION_DIR)

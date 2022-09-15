@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
-  background: #add8e6;
+  background: #b8e1ef;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -19,7 +19,7 @@ body{
   height: 20px;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #9a9aae;
+  color: #70708d;
 }
 
 .searchTerm:focus{
@@ -42,7 +42,7 @@ body{
 .wrap{
   width: 30%;
   position: absolute;
-  top: 35%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -71,4 +71,27 @@ body{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #191970;
 	text-align:center;
+}
+
+/* === RESULT === */
+
+.result{
+  position: relative;
+  background: white;
+  height: 220px;
+  border-radius: 10px;
+  
+}
+
+.result p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  color: #6363a5;
+	text-align: center;
+}
+
+.img-res{
+  margin-top: 450px;
+  padding:35px;
+  text-align: center;
 }
