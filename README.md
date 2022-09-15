@@ -16,5 +16,5 @@ The dataset is [Validation set in Visual Question Answering - VizWiz](https://vi
 
 ## Demo
 
-https://user-images.githubusercontent.com/79850747/190487150-a4ddeba9-8742-44b2-99c2-3f41fd86f275.mp4
+https://user-images.githubusercontent.com/79850747/190487605-74107e50-b9e1-49d5-a334-fcdcc42ea45f.mp4
 
