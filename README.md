@@ -1,5 +1,5 @@
 # Image Retrieval
-Text and Content based Image Retrieval
+Text-based Image Retrieval
 
 ## Contents:
 - [Introduction](#introduction)
@@ -15,4 +15,6 @@ The user enters a query (a string or an image) into the system and the number of
 The dataset is [Validation set in Visual Question Answering - VizWiz](https://vizwiz.org/tasks-and-datasets/vqa/), includes 5108 images and captions.
 
 ## Demo
---- update later ---
+
+https://user-images.githubusercontent.com/79850747/190487605-74107e50-b9e1-49d5-a334-fcdcc42ea45f.mp4
+
