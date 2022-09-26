@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Retrieval</title>
+    <link href="{{ url_for('static', path='/styles.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <div class="title-01">
+        <h1>IMAGE RETRIEVAL</h1>
+        <p>@ Developed by thanhthanhthile</p>
+    </div>
+    <div class="nav">
+        <ul>
+            <li><a href="index.html">Search with a caption</a></li>
+            <li><a href="contentbased.html">Search with an image</a></li>
+        </ul>
+    </div>
+
+    <div class="wrap">
+        <form action="/content-based_query" method="post" enctype="multipart/form-data">
+            <div class="search">
+                <input class="upload-file" type="file" name="file">
+                <input type="submit" class="btn-upload">
+            </div>
+        </form>
+    </div>
+
+    <div>
+        {% if output %}
+            <div>
+                <div class="paragraph">
+                    <p>Your query:
+                        <br>
+                        <img src="{{ url_for('static', path=output.query_path) }}" width="112", height="150">
+                        <br>10 images retrieved in {{ output.running_time }}
+                    </p>
+                </div> 
+                <div class="img-res">
+                {% for i in output.image_name %}
+                    <img src="{{ url_for('static', path=i) }}" width="112", height="150">
+                {% endfor %}
+                </div>
+            </div>
+        {% endif %}
+    </div>
+    
+
+
+
+</body>

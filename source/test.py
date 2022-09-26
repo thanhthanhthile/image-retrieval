@@ -1,7 +1,8 @@
 import pickle
 
-filename = 'source/corpus'
+filename = 'source/corpus_img'
 infile = open(filename, 'rb')
 id, corpus = pickle.load(infile)
 infile.close()
-print(corpus)
+print(corpus.shape)
+print(id)

@@ -2,52 +2,10 @@
 
 body{
   background: #b8e1ef;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.search {
-  width: 100%;
-  position: relative;
-  display: flex;
-}
-
-.searchTerm {
-  width: 100%;
-  border: 3px solid #191970;
-  border-right: none;
-  padding: 5px;
-  height: 20px;
-  border-radius: 5px 0 0 5px;
-  outline: none;
-  color: #70708d;
-}
-
-.searchTerm:focus{
-  color: #191970;
-}
-
-.searchButton {
-  width: 40px;
-  height: 36px;
-  border: 1px solid #191970;
-  background: #191970;
-  text-align: center;
-  color: #ffffff;
-  border-radius: 0 5px 5px 0;
-  cursor: pointer;
-  font-size: 20px;
-}
-
-/*Resize the wrap to see the search bar change!*/
-.wrap{
-  width: 30%;
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-/* === CODFE HEADING STYLE #1 === */
+/* === CODE HEADING STYLE #1 === */
 .title-01 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #191970;
@@ -73,25 +31,106 @@ body{
 	text-align:center;
 }
 
-/* === RESULT === */
-
-.result{
-  position: relative;
-  background: white;
-  height: 220px;
-  border-radius: 10px;
-  
+/* === CODE MENU === */
+.nav{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align:center;
+  padding-top: 15px;
+	padding-bottom: 15px;
+}
+.nav ul{
+  list-style-type: none;  
+  padding: 0;
 }
 
-.result p {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+.nav ul li{
+  display: inline-block;
+}
+.nav ul li a{ 
+  padding: 8px;  
+  background-color: #ffffff;
+  border-radius: 5px 5px 5px 5px;
+}
+
+/* =========== SEARCH BAR ============= */
+/*Resize the wrap to see the search bar change!*/
+.wrap{
+  width: 30%;
   position: relative;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+
+.search {
+  width: 100%;
+  display: flex;
+}
+
+.searchTerm {
+  width: 100%;
+  border: 3px solid #191970;
+  border-right: none;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px 0 0 5px;
+  outline: none;
+  color: #70708d;
+}
+
+.searchTerm:focus{
+  color: #191970;
+}
+
+
+.searchButton {
+  width: 40px;
+  height: 36px;
+  border: 1px solid #191970;
+  background: #191970;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  font-size: 20px;
+}
+/* === UPLOAD IMAGE === */
+
+.upload-file{
+  font-size: 15px;
+  background: #ffffff;
+  text-align: center;
+  color: #191970;
+}
+.btn-upload{
+  font-size: 15px;
+  border: 1px solid #191970;
+  background: #191970;
+  color: #ffffff;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+}
+
+
+/* === RESULT === */
+
+.paragraph p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #6363a5;
-	text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .img-res{
-  margin-top: 450px;
-  padding:35px;
+  position: relative;
+  margin-top: 300px;
+  padding: 35px;
   text-align: center;
+  background: white;
+  border-radius: 10px;
+  bottom: 80px;
 }

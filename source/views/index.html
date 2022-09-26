@@ -10,14 +10,19 @@
 </head>
 
 <body>
-<div class="title-01">
-    <h1>IMAGE RETRIEVAL</h1>
-    <p>@ Developed by thanhthanhthile</p>
-</div>
+    <div class="title-01">
+        <h1>IMAGE RETRIEVAL</h1>
+        <p>@ Developed by thanhthanhthile</p>
+    </div>
+    <div class="nav">
+        <ul>
+            <li><a href="index.html">Search with a caption</a></li>
+            <li><a href="contentbased.html">Search with an image</a></li>
+        </ul>
+    </div>
 
-<div>
     <div class="wrap">
-        <form action="\query" method="post" enctype="multipart/form-data">
+        <form action="/text-based_query" method="post" enctype="multipart/form-data">
             <div class="search">
                 <input type="text" name="query" class="searchTerm" placeholder="What are you looking for?">
                 <button type="submit" class="searchButton" title="Search">
@@ -26,23 +31,23 @@
             </div>
         </form>
     </div>
-    <div class="result">
-        <div>
-            {% if output %}
-                <div>
-                    <p> 10 images retrieved in {{ output.running_time }}</p>
-                    <div class="img-res">
-                    {% for i in output.image_name %}
-                        <img src="{{ url_for('static', path=i) }}" width="112", height="150">
-                    {% endfor %}
-                    </div>
+
+    <div>
+        {% if output %}
+            <div>
+                <div class="paragraph">
+                    <p>Your query: "{{ output.query }}"
+                        <br><br> 10 images retrieved in {{ output.running_time }}
+                    </p>
+                </div> 
+                <div class="img-res">
+                {% for i in output.image_name %}
+                    <img src="{{ url_for('static', path=i) }}" width="112", height="150">
+                {% endfor %}
                 </div>
-            {% endif %}
-        </div>
-
+            </div>
+        {% endif %}
     </div>
-
-</div>
 
 </body>
 
