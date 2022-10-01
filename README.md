@@ -1,5 +1,5 @@
 # Image Retrieval
-Text-based Image Retrieval
+Text-based and Content-based Image Retrieval
 
 ## Contents:
 - [Introduction](#introduction)
@@ -17,5 +17,5 @@ The dataset is [Validation set in Visual Question Answering - VizWiz](https://vi
 
 ## Demo
 
-https://user-images.githubusercontent.com/79850747/190487605-74107e50-b9e1-49d5-a334-fcdcc42ea45f.mp4
+https://user-images.githubusercontent.com/79850747/193414961-58206a00-5b17-4509-8606-da87d4ead5ee.mp4
 
